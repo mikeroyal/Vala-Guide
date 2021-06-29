@@ -6,7 +6,14 @@
 
 #### A guide covering the Vala programming language including the applications and tools that will make you a better and more efficient Vala developer.
 
-## Resources
+**Note: You can easily convert this markdown file to a PDF in [VSCode](https://code.visualstudio.com/) using this handy extension [Markdown PDF](https://marketplace.visualstudio.com/items?itemName=yzane.markdown-pdf).**
+ 
+ <p align="center">
+ <img src="https://user-images.githubusercontent.com/45159366/123858899-e4514900-d8d8-11eb-92a8-d18d153bd313.png">
+  <br />
+</p>
+
+## Vala Learning Resources
 
 [Vala](https://wiki.gnome.org/Projects/Vala) is a programming language that aims to bring modern programming language features to [GNOME](https://www.gnome.org/) developers by using the GObject type system and having additional code generation routines that make targeting the GNOME stack simple. Vala does all this without imposing any additional runtime requirements and without using a different ABI compared to applications and libraries written in C.
 
@@ -30,7 +37,7 @@
 
 [GNOME Builder documentation](https://builder.readthedocs.io/en/latest/)
 
-## Tools
+## Vala Tools and Frameworks
 
 [Valac](https://valalang.com/) is a Vala compiler that compiles the Vala program in C and uses the C compiler to create a binary file.
 
@@ -45,3 +52,12 @@
 [Granite](https://github.com/elementary/granite) is a companion library for GTK+ and GLib. Also, it provides complex widgets and convenience functions designed for use in apps built for elementary OS.
 
 [GameHub](https://github.com/tkashkin/GameHub) is a unified library for all your games. It allows users to store all their games from different platforms(Windows, macOS, and Linux) into one program.
+
+## Contribute
+
+- [x] If would you like to contribute to this guide simply make a [Pull Request](https://github.com/mikeroyal/-Guide/pulls).
+
+
+## License
+
+Distributed under the [Creative Commons Attribution 4.0 International (CC BY 4.0) Public License](https://creativecommons.org/licenses/by/4.0/).
